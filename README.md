@@ -1,4 +1,4 @@
-# Ngdominican
+# ngd
 
 This project was generated using [Nx](https://nx.dev).
 
@@ -51,7 +51,7 @@ Run `ng g @nrwl/angular:lib my-lib` to generate a library.
 
 > You can also use any of the plugins above to generate libraries as well.
 
-Libraries are sharable across libraries and applications. They can be imported from `@ngdominican/mylib`.
+Libraries are sharable across libraries and applications. They can be imported from `@ngd/mylib`.
 
 ## Development server
 

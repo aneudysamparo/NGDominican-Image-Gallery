@@ -1,8 +1,8 @@
 {
   "extends": "../../tslint.json",
   "rules": {
-    "directive-selector": [true, "attribute", "ngdominican", "camelCase"],
-    "component-selector": [true, "element", "ngdominican", "kebab-case"]
+    "directive-selector": [true, "attribute", "ngd", "camelCase"],
+    "component-selector": [true, "element", "ngd", "kebab-case"]
   },
   "linterOptions": {
     "exclude": ["!**/*"]

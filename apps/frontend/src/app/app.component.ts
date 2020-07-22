@@ -1,9 +1,9 @@
 import { Component } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { Message } from '@ngdominican/api-interfaces';
+import { Message } from '@ngd/api-interfaces';
 
 @Component({
-  selector: 'ngdominican-root',
+  selector: 'ngd-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss'],
 })
